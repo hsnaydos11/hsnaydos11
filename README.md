@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasan Aydos</h1>
-<h3 align="center">A passionate data analyst from Turkey</h3>
+<h3 align="center">I am a beginner data analyst working on deep learning from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsnaydos11&label=Profile%20views&color=0e75b6&style=flat" alt="hsnaydos11" /> </p>
 
